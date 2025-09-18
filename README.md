@@ -1,4 +1,4 @@
-# API de Tareas con Clean Architecture
+# API de Tareas con Node
 
 Esta es una API REST para gestionar tareas, implementada con Node.js, Express y MySQL siguiendo los principios de Clean Architecture.
 
